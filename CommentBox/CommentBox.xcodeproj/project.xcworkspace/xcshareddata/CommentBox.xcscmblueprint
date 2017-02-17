@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "C5BD23EBAA16881CDE032C81C6D4D73E8029272E",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C5BD23EBAA16881CDE032C81C6D4D73E8029272E" : 0,
+    "EA705F0AE70B8A2B92647DF47BBCB2BDA98A3B98" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "76C342F8-29FF-42F3-B11C-D967A3C7E1D0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C5BD23EBAA16881CDE032C81C6D4D73E8029272E" : "CommentBox\/",
+    "EA705F0AE70B8A2B92647DF47BBCB2BDA98A3B98" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CommentBox",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CommentBox.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Sakshijain_Comp\/commentbox.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C5BD23EBAA16881CDE032C81C6D4D73E8029272E"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/Sakshijain_Comp\/gh_reposakshijain24.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EA705F0AE70B8A2B92647DF47BBCB2BDA98A3B98"
+    }
+  ]
+}
